@@ -32,7 +32,7 @@ def main():
         # TODO: Convertir m_str a entero y asignarlo a m
     except ValueError:
         # TODO: imprimir "Error: La altura debe ser un numero entero" y salir
-        print(" Error: La altura debe ser un entero positivo")
+        print("Error: La altura debe ser un entero positivo ")
         return
     # TODO: llamar a la función reloj_arena con los parámetros m y s
     reloj_arena(m,s)
